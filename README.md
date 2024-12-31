@@ -16,7 +16,7 @@ A simple Command Line Interface (CLI) application to track and manage tasks.
 
 ## Project URL
 
-[Task Tracker CLI GitHub Repository](https://github.com/edzy16/task-tracker-cli)
+[Task Tracker CLI project](https://roadmap.sh/projects/task-tracker)
 
 ## How to Run
 
